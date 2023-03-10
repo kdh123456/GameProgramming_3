@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5349092e97094e447a6cd724e7dd44d6, type: 3}
   m_Name: WoodHarvester
   m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 793ca27a5a3378149aaa12abe85933f4, type: 3}
   nameString: WoodHarvester
   prefab: {fileID: 6432714829265345500, guid: efa4c3bf7a1423b468d9b6afe6e6c94d, type: 3}
   resourceGeneratorData:
     timerMax: 5
-    prefab: {fileID: 0}
+    prefab: {fileID: 3983390626476346889, guid: efa4c3bf7a1423b468d9b6afe6e6c94d, type: 3}
     resourceType: {fileID: 11400000, guid: 69188ba1707867946ad05bbd9b19b71e, type: 2}

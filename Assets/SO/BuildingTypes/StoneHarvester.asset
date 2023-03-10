@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5349092e97094e447a6cd724e7dd44d6, type: 3}
   m_Name: StoneHarvester
   m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 2263e91ebcd2a254dab5f4caccb4a7af, type: 3}
   nameString: StoneHarvester
   prefab: {fileID: 6432714829265345500, guid: 5a8b6f2762d6d284c9dcefcd141685bd, type: 3}
   resourceGeneratorData:
     timerMax: 5
-    prefab: {fileID: 0}
+    prefab: {fileID: 3983390626476346889, guid: 5a8b6f2762d6d284c9dcefcd141685bd, type: 3}
     resourceType: {fileID: 11400000, guid: 97498f7ce3d40f9438f5041156481f47, type: 2}
